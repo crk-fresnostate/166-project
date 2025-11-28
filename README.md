@@ -1,4 +1,5 @@
 # 166-dqn-atari
+starter notebook: https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb
 | Episode | Model | Video |
 | --- | --- | --- |
 | Early | DQN | https://github.com/user-attachments/assets/83988a80-4298-478b-9dd8-f1168ec05eb1 |
